@@ -1,0 +1,8 @@
+{
+  "name": "Awaken Studio - AI SaaS Agency",
+  "description": "An elite AI-first SaaS agency website focused on building production-ready MVPs in 3 weeks. Features a dark technical aesthetic, custom cursor, and smooth scroll animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
